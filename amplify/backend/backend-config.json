@@ -1,0 +1,9 @@
+{
+	"auth": {
+		"elearningmv116ffee4": {
+			"service": "Cognito",
+			"providerPlugin": "awscloudformation",
+			"dependsOn": []
+		}
+	}
+}
